@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Implementation-Title: ActiveMQ Artemis Web
+Implementation-Version: 2.18.0.redhat-00015
+Java-Version: 1.8.0_292
+Built-By: PNC-Builder
+Scm-Connection: scm:git:https://gitbox.apache.org/repos/asf/activemq-a
+ rtemis.git/artemis-website
+Specification-Vendor: The Apache Software Foundation
+Os-Arch: amd64
+Specification-Title: ActiveMQ Artemis Web
+Implementation-Vendor-Id: org.apache.activemq
+Java-Vendor: Red Hat, Inc.
+Os-Name: Linux
+Scm-Url: https://github.com/apache/activemq-artemis/artemis-website
+Implementation-Vendor: The Apache Software Foundation
+Os-Version: 4.18.0-305.19.1.el8_4.x86_64
+Scm-Revision: 4bec14e544de7efe570af596fa88f16a8bc3ca56
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_292
+Specification-Version: 2.18
+Implementation-URL: https://activemq.apache.org/components/artemis/art
+ emis-website/
+

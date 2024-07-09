@@ -1,0 +1,16 @@
+JarIndex-Version: 1.0
+
+artemis-website-2.18.0.redhat-00015.jar
+META-INF
+META-INF/maven
+META-INF/maven/org.apache.activemq
+META-INF/maven/org.apache.activemq/artemis-website
+examples
+hacking-guide
+images
+styles
+styles/impact
+styles/impact/css
+user-manual
+index.html
+
